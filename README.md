@@ -40,6 +40,9 @@ ylabel( 'Magnitude in dB');
 title('Frequency Response of FIR LPF using Blackman Window');
 ```
 **CALCULATION:**
+<img width="940" height="624" alt="image" src="https://github.com/user-attachments/assets/94872eb9-24a9-42e6-8ba5-9ccaa64ff39d" />
+<img width="940" height="944" alt="image" src="https://github.com/user-attachments/assets/577f0942-7629-47a5-b93b-29b89726b4e5" />
+
 
 # OUTPUT: 
 <img width="491" height="457" alt="LPF-Blackman calculation" src="https://github.com/user-attachments/assets/1b06a0ab-ccef-41c5-97ce-1a92766ad8c2" />
@@ -89,6 +92,7 @@ ylabel( 'Magnitude in dB');
 title('Frequency Response of FIR HPF using Blackman Window');
 ```
 **CALCULATION:**
+<img width="940" height="1254" alt="image" src="https://github.com/user-attachments/assets/ac5a26eb-8dd6-44c4-9497-9c0650333117" />
 
 # OUTPUT: 
 <img width="451" height="479" alt="HPF-Blackman calculation" src="https://github.com/user-attachments/assets/4addd579-4e03-4e2f-9573-373cd1a7c8c1" />
@@ -139,6 +143,7 @@ ylabel( 'Magnitude in dB');
 title('Frequency Response of FIR BPF using Blackman Window'); 
 ```
 **CALCULATION:**
+<img width="940" height="1254" alt="image" src="https://github.com/user-attachments/assets/61d7014e-986f-4a0e-bc92-83f2f340a3b7" />
 
 # OUTPUT: 
 <img width="556" height="458" alt="BPF-Blackman Calculation" src="https://github.com/user-attachments/assets/741f1f83-ba9a-4814-9b3b-6973b9bd1a9f" />
@@ -189,6 +194,7 @@ ylabel( 'Magnitude in dB');
 title('Frequency Response of FIR BSF using Blackman Window');
 ```
 **CALCULATION:**
+<img width="940" height="1254" alt="image" src="https://github.com/user-attachments/assets/8187cf88-e51f-4864-b3b6-1b8c4b5bf565" />
 
 # OUTPUT: 
 <img width="582" height="512" alt="BSF-Blackman Calculation" src="https://github.com/user-attachments/assets/297f2cfe-4e63-4bb1-87ae-bd833e6ddaec" />
